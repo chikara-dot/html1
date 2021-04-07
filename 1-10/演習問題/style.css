@@ -84,14 +84,13 @@
   .box {
     width: 90%;
     margin: 20px auto;
-    padding: 10px;
     position: relative;
     background-color: #eee;
     margin-bottom: 20px;
   }
 
   .box-1 {
-    height: 300px;
+    height: 245px;
     background-image: url(img/flow01.png);
     background-position: bottom;
     background-size: cover;
@@ -117,7 +116,7 @@
   }
 
   .box-A {
-    height: 300px;
+    height: 245px;
     background-image: url(img/flow02.png);
     background-position: bottom;
     background-size: cover;
@@ -125,7 +124,7 @@
   }
 
   .box-B {
-    height: 300psx;
+    height: 245px;
     background-image: url(img/flow03.png);
     background-position: bottom;
     background-size: cover;
